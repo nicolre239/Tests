@@ -1,0 +1,29 @@
+﻿Построение начато 01.12.2018 12:27:06.
+     1>Проект "C:\Users\Николай\documents\visual studio 2012\Projects\UKPO_2_TESTS\UKPO_2_TESTS\UKPO_2_TESTS.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\UnitTest\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\UKPO_2_TESTS.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /FC /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\UnitTest\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\UKPO_2_TESTS.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /FC /errorReport:prompt TextParser.cpp Unit.cpp unittest1.cpp
+         unittest1.cpp
+         Unit.cpp
+         TextParser.cpp
+     1>c:\users\николай\documents\visual studio 2012\projects\ukpo_2_tests\ukpo_2_tests\textparser.cpp(77): warning C4018: <=: несоответствие типов со знаком и без знака
+     1>c:\users\николай\documents\visual studio 2012\projects\ukpo_2_tests\ukpo_2_tests\textparser.cpp(85): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\николай\documents\visual studio 2012\projects\ukpo_2_tests\ukpo_2_tests\textparser.cpp(96): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\николай\documents\visual studio 2012\projects\ukpo_2_tests\ukpo_2_tests\textparser.cpp(173): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\николай\documents\visual studio 2012\projects\ukpo_2_tests\ukpo_2_tests\textparser.cpp(186): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\николай\documents\visual studio 2012\projects\ukpo_2_tests\ukpo_2_tests\textparser.cpp(205): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\николай\documents\visual studio 2012\projects\ukpo_2_tests\ukpo_2_tests\textparser.cpp(246): warning C4018: <: несоответствие типов со знаком и без знака
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Николай\documents\visual studio 2012\Projects\UKPO_2_TESTS\Debug\UKPO_2_TESTS.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\UnitTest\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Николай\documents\visual studio 2012\Projects\UKPO_2_TESTS\Debug\UKPO_2_TESTS.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Николай\documents\visual studio 2012\Projects\UKPO_2_TESTS\Debug\UKPO_2_TESTS.lib" /MACHINE:X86 /DLL Debug\stdafx.obj
+         Debug\TextParser.obj
+         Debug\Unit.obj
+         Debug\unittest1.obj
+            Создается библиотека C:\Users\Николай\documents\visual studio 2012\Projects\UKPO_2_TESTS\Debug\UKPO_2_TESTS.lib и объект C:\Users\Николай\documents\visual studio 2012\Projects\UKPO_2_TESTS\Debug\UKPO_2_TESTS.exp
+         UKPO_2_TESTS.vcxproj -> C:\Users\Николай\documents\visual studio 2012\Projects\UKPO_2_TESTS\Debug\UKPO_2_TESTS.dll
+     1>Построение проекта "C:\Users\Николай\documents\visual studio 2012\Projects\UKPO_2_TESTS\UKPO_2_TESTS\UKPO_2_TESTS.vcxproj" завершено (целевые объекты Rebuild).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.90
